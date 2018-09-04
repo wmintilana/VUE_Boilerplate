@@ -1,0 +1,4 @@
+app:
+    build: ./teambox
+      context: teambox
+      dockerfile: ./teambox/Dockerfile
